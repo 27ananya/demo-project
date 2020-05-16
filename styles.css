@@ -1,0 +1,89 @@
+body{
+
+font-family: 'Baloo 2', cursive;
+}
+h1{
+  font-family: 'Roboto Slab', serif;
+  font-size:4rem;
+  line-height:1.5;
+}
+#placed{
+  padding:3% 15%;
+}
+.girl_img{
+  width:70%;
+  margin-left:15%;
+}
+#title{
+  background-color:#f1d1d1;
+  color:#7d5a5a;
+}
+.title_p{
+  font-size: 1.5rem;
+}
+/*navigationbar*/
+.navbar {
+  padding:0 0 4.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size:1.5rem;
+font-family: 'Roboto Slab', serif;
+}
+.navbar-brand {
+font-family: 'Roboto Slab', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+/*button*/
+  .download_button{
+    margin:5% 3% 5% 0;
+}
+/* next part*/
+.nextpart{
+  text-align: center;
+  margin: 6% 4%;
+}
+h3{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+  color:#7d5a5a;
+}
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-size:3rem;
+  line-height: 1.5;
+  color:#7d5a5a;
+}
+p{
+  color: #8f8f8f;
+}
+.col_i{
+margin-top:5%;
+margin-bottom: 10%;
+ font-size:40px;
+color:#7d5a5a;
+}
+i:hover{
+  color:#ffa299;
+}
+.endbox{
+  background-color:#f1d1d1;
+}
+.girl_img1{
+  width:60%;
+}
+.title_p2{
+  font-size: 1.5rem;
+}
+.col_1{
+  margin:2% 1% 2% 1%;
+  font-size:20px;
+ color:#7d5a5a;
+}
+.footer-title{
+  font-size:2rem;
+  color:#8f8f8f;
+}
